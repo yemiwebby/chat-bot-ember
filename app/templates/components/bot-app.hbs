@@ -1,0 +1,24 @@
+
+<div class=" chat-wrapper">
+   <div class="chat-holder">
+     {{#each chats as |chat|}}
+        <div class="active-user message message-to">
+            <span> {{ chat.query }} </span>
+            <img src="http://res.cloudinary.com/yemiwebby-com-ng/image/upload/v1529185121/user-new_fm7q4a.png" class="avatar" alt="Active user avatar">
+        </div>
+                            
+        <div class="bot message message-from">
+            <img src="http://res.cloudinary.com/yemiwebby-com-ng/image/upload/v1529185121/bot_gphhi8.png" class="avatar" alt="Bot avatar">
+            <span> {{ chat.speech }} </span>
+        </div>
+     {{/each}}
+                        
+    </div>
+
+    <div class="form-group box">
+       {{input value=message enter="sendChat" placeholder="Enter your message and press enter"}}
+    </div>
+                    
+</div>
+                
+                
