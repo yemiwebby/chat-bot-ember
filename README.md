@@ -5,7 +5,7 @@ This project contains the source code for a chat bot built with Ember.js, Dialog
 Here is a screenshot of the application.
 
 
-![ezgif com-video-to-gif 5](https://user-images.githubusercontent.com/19610753/41503693-1b88fdda-71d2-11e8-9073-cf1c89912c01.gif)
+![ezgif com-video-to-gif 8](https://user-images.githubusercontent.com/19610753/41600836-d2013f2a-73ce-11e8-82ae-96b3ef0db893.gif)
 
 
 ## Prerequisites
