@@ -2,7 +2,7 @@
 This project contains the source code for a chat bot built with Ember.js, Dialogflow and Pusher
 
 
-[View tutorial](https://github.com/yemiwebby/chat-bot-ember)
+[View tutorial](https://pusher.com/tutorials/chat-bot-emberjs-dialogflow)
 
 Here is a screenshot of the application.
 
