@@ -1,6 +1,6 @@
 ## Build a realtime chat bot using Ember.js and Dialogflow
-This project contains the source code for a chat bot built with Ember.js, Dialogflow and Pusher
 
+This project contains the source code for a chat bot built with Ember.js, Dialogflow and Pusher
 
 [View tutorial](https://pusher.com/tutorials/chat-bot-emberjs-dialogflow)
 
@@ -12,6 +12,7 @@ Here is a screenshot of the application.
 
 ## Prerequisites
 1. You will need the following things properly installed on your computer.
+
 
 * [Git](https://git-scm.com/)
 * [Node.js](https://nodejs.org/) (with npm)
@@ -26,6 +27,7 @@ Here is a screenshot of the application.
 ```bash
 $ git clone https://github.com/yemiwebby/chat-bot-ember.git
 ```
+
 
 ### Change directory
 ```bash
