@@ -6,13 +6,11 @@ This project contains the source code for a chat bot built with Ember.js, Dialog
 
 Here is a screenshot of the application.
 
-
 ![ezgif com-video-to-gif 8](https://user-images.githubusercontent.com/19610753/41600836-d2013f2a-73ce-11e8-82ae-96b3ef0db893.gif)
 
 
 ## Prerequisites
 1. You will need the following things properly installed on your computer.
-
 
 * [Git](https://git-scm.com/)
 * [Node.js](https://nodejs.org/) (with npm)
@@ -27,7 +25,6 @@ Here is a screenshot of the application.
 ```bash
 $ git clone https://github.com/yemiwebby/chat-bot-ember.git
 ```
-
 
 ### Change directory
 ```bash
